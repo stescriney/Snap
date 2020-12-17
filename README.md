@@ -9,7 +9,7 @@ Outputs another message "No Snap" if the inputs differ
 Java
 
 ## Setup
-To run this code, install locally
+To run this code, install locally</br>
 Run the following:
 
 
